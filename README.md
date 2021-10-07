@@ -1,4 +1,4 @@
-
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=your-repo-url)
 # RSS Feed Fuser
 
 Parse multiple RSS feeds, sort the contents by time of publish, and provide them for access via a simple API route in JSON format.<br>
